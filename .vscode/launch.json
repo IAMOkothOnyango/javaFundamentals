@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SampleLogIn",
+            "request": "launch",
+            "mainClass": "SampleLogIn",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "JavaLoops",
+            "request": "launch",
+            "mainClass": "JavaLoops",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "GreetingProgram",
+            "request": "launch",
+            "mainClass": "GreetingProgram",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "TimeFunction",
+            "request": "launch",
+            "mainClass": "TimeFunction",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "Booleans",
+            "request": "launch",
+            "mainClass": "Booleans",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "OutputNumbers",
+            "request": "launch",
+            "mainClass": "OutputNumbers",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "VariableTypes",
+            "request": "launch",
+            "mainClass": "VariableTypes",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "javaFundamentals_c5e61984"
+        }
+    ]
+}
