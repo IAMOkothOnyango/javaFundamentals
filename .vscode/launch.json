@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stairs",
+            "request": "launch",
+            "mainClass": "Stairs",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "Summation",
+            "request": "launch",
+            "mainClass": "Summation",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
+            "name": "Countdown",
+            "request": "launch",
+            "mainClass": "Countdown",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
             "name": "SampleLogIn",
             "request": "launch",
             "mainClass": "SampleLogIn",
