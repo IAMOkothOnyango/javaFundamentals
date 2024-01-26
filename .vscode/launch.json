@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HaltConditions",
+            "request": "launch",
+            "mainClass": "HaltConditions",
+            "projectName": "javaFundamentals_c5e61984"
+        },
+        {
+            "type": "java",
             "name": "Stairs",
             "request": "launch",
             "mainClass": "Stairs",
